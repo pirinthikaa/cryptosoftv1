@@ -1,0 +1,14 @@
+C:\Users\kspir\OneDrive - Association Cesi Viacesi mail\FISA A3\PROGRAMMATION\cryptosoftv1\bin\Debug\net8.0\cryptosoftv1.exe
+C:\Users\kspir\OneDrive - Association Cesi Viacesi mail\FISA A3\PROGRAMMATION\cryptosoftv1\bin\Debug\net8.0\cryptosoftv1.deps.json
+C:\Users\kspir\OneDrive - Association Cesi Viacesi mail\FISA A3\PROGRAMMATION\cryptosoftv1\bin\Debug\net8.0\cryptosoftv1.runtimeconfig.json
+C:\Users\kspir\OneDrive - Association Cesi Viacesi mail\FISA A3\PROGRAMMATION\cryptosoftv1\bin\Debug\net8.0\cryptosoftv1.dll
+C:\Users\kspir\OneDrive - Association Cesi Viacesi mail\FISA A3\PROGRAMMATION\cryptosoftv1\bin\Debug\net8.0\cryptosoftv1.pdb
+C:\Users\kspir\OneDrive - Association Cesi Viacesi mail\FISA A3\PROGRAMMATION\cryptosoftv1\obj\Debug\net8.0\cryptosoftv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kspir\OneDrive - Association Cesi Viacesi mail\FISA A3\PROGRAMMATION\cryptosoftv1\obj\Debug\net8.0\cryptosoftv1.AssemblyInfoInputs.cache
+C:\Users\kspir\OneDrive - Association Cesi Viacesi mail\FISA A3\PROGRAMMATION\cryptosoftv1\obj\Debug\net8.0\cryptosoftv1.AssemblyInfo.cs
+C:\Users\kspir\OneDrive - Association Cesi Viacesi mail\FISA A3\PROGRAMMATION\cryptosoftv1\obj\Debug\net8.0\cryptosoftv1.csproj.CoreCompileInputs.cache
+C:\Users\kspir\OneDrive - Association Cesi Viacesi mail\FISA A3\PROGRAMMATION\cryptosoftv1\obj\Debug\net8.0\cryptosoftv1.dll
+C:\Users\kspir\OneDrive - Association Cesi Viacesi mail\FISA A3\PROGRAMMATION\cryptosoftv1\obj\Debug\net8.0\refint\cryptosoftv1.dll
+C:\Users\kspir\OneDrive - Association Cesi Viacesi mail\FISA A3\PROGRAMMATION\cryptosoftv1\obj\Debug\net8.0\cryptosoftv1.pdb
+C:\Users\kspir\OneDrive - Association Cesi Viacesi mail\FISA A3\PROGRAMMATION\cryptosoftv1\obj\Debug\net8.0\cryptosoftv1.genruntimeconfig.cache
+C:\Users\kspir\OneDrive - Association Cesi Viacesi mail\FISA A3\PROGRAMMATION\cryptosoftv1\obj\Debug\net8.0\ref\cryptosoftv1.dll
